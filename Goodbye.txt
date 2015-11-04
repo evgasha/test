@@ -1,0 +1,2 @@
+Print("goodbye world");
+Print("goodbye");
