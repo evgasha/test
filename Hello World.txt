@@ -1,3 +1,6 @@
 Print("Hello World.");
 Print("Hello Everybody.");
 Print("Hello.");
+Print("Hello My Dear Friend.");
+Print("Glad to see you."); 
+
